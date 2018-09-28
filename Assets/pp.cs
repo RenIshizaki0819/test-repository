@@ -6,7 +6,7 @@ public class pp : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		
+        Debug.Log("unko");
 	}
 	
 	// Update is called once per frame
